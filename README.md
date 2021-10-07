@@ -24,4 +24,4 @@ Give the user a rating based on the number of guesses
 
 
 ## Resource 
-<a href="https://www.oreilly.com/library/view/head-first-java/0596009208/" Head First - Java>
+<a href="https://www.oreilly.com/library/view/head-first-java/0596009208/">Head First - Java</a>
