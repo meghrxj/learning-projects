@@ -23,3 +23,5 @@ Give the user a rating based on the number of guesses
 <a href="https://ibb.co/r5JVjtr"><img src="https://i.ibb.co/GCjq6JS/image-2021-10-07-232554.png" alt="image-2021-10-07-232554" border="0"></a>
 
 
+## Resource 
+<a href="https://www.oreilly.com/library/view/head-first-java/0596009208/" Head First - Java>
